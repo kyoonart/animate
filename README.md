@@ -2,5 +2,6 @@
 
 First -> Last -> Invert -> Play
 
-# more info visit
-https://auto-animate.formkit.com/
+# more infomation visit
+https://auto-animate.formkit.com
+
